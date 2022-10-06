@@ -21,3 +21,4 @@ if (num1 > num2){
 Array.length,[0];
 console.log (suma , '' , n1+n2);
 console.log (rest , ' ' , num1-num2);
+console.log (array);
