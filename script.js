@@ -18,7 +18,7 @@ if (num1 > num2){
     resta = num1 - num2;
 }
 
+console.log (array);
 Array.length,[0];
 console.log (suma , '' , n1+n2);
 console.log (rest , ' ' , num1-num2);
-console.log (array);
