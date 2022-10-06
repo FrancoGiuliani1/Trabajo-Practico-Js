@@ -9,3 +9,6 @@ var n2 = 56;
 
 const suma = "La suma es = ";
 const rest = "La resta es = ";
+
+let num1 = 103;
+let num2 = 77;
