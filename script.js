@@ -6,3 +6,5 @@ array = {nombre,apellido,edad}
 
 var n1 = 98;
 var n2 = 56;
+
+const suma = "La suma es = ";
