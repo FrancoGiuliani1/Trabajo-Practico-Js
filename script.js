@@ -19,3 +19,4 @@ if (num1 > num2){
 }
 
 Array.length,[0];
+console.log (suma , '' , n1+n2);
