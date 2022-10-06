@@ -13,3 +13,7 @@ const rest = "La resta es = ";
 let num1 = 103;
 let num2 = 77;
 let resta = num1 - num2; 
+
+if (num1 > num2){
+    resta = num1 - num2;
+}
